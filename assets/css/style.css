@@ -1139,6 +1139,14 @@ fieldset {
 *    15. SINGLE BLOG PAGE CSS STYLE
 * -------------------------------------------------------------
 */
+.breadcrumb-sweet-thing{
+	background:url(../img/bg/sweet-bg.jpg);
+	background-position: center center;
+	background-size: cover;
+	position: relative;
+	height:  350px;
+	z-index:1;
+}
 .breadcrumb-main{
 	background:url(../img/bg/breadcrumb-bg.jpg);
 	background-position: center center;
