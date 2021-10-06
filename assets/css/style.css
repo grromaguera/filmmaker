@@ -1146,7 +1146,14 @@ Custom rotation for puzzle box logo
 *    15. SINGLE BLOG PAGE CSS STYLE
 * -------------------------------------------------------------
 */
-.breadcrumb-sweet-thing{
+.breadcrumb-goat{
+	background:url(../img/bg/goat-bg.jpg);
+	background-position: center center;
+	background-size: cover;
+	position: relative;
+	height:  350px;
+	z-index:1;
+}.breadcrumb-sweet-thing{
 	background:url(../img/bg/sweet-bg.jpg);
 	background-position: center center;
 	background-size: cover;
