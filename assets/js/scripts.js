@@ -114,7 +114,7 @@
 		// 10. END MAGNIFIC POPUP JS
 
         // 11. START GOOGLE MAP JS
-         var myCenter=new google.maps.LatLng(-37.81137, 144.96102);
+         /*var myCenter=new google.maps.LatLng(-37.81137, 144.96102);
             function initialize(){
 				var mapProp = {
 					zoom:16,
@@ -126,7 +126,7 @@
 				};
 	            var map=new google.maps.Map(document.getElementById("contactgoogleMap"),mapProp);
             }
-            google.maps.event.addDomListener(window, 'load', initialize);
+            google.maps.event.addDomListener(window, 'load', initialize);*/
 		// 11. END GOOGLE MAP JS
 	});
 
