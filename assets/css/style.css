@@ -605,6 +605,28 @@ fieldset {
 *    06. START SERVICES AREA CSS STYLE
 * -------------------------------------------------------------
 */
+#service-video-iframe{
+  flex-grow: 1;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+@media all and (max-width: 400px) {
+  .service-video-container{
+    display: flex;
+    min-height:300px;
+    padding: 0px;
+  }
+}
+@media all and (min-width: 400px) {
+
+  .service-video-container{
+    display: flex;
+    min-height:500px;
+    padding: 0px;
+  }
+}
+
 .services-area { padding-bottom: 60px }
 .single-service { height: 300px }
 .single-service i {
